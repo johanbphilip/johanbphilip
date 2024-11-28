@@ -7,8 +7,8 @@ I'm a Computer Science at Toronto Metropolitan University (formerly Ryerson Univ
 ## Education
 
 #### Toronto Metropolitan University (Ryerson University) 
-Bachelor of Science in Computer Science (B.Sc.) \
-Expected Graduation: April 2026 \
+Bachelor of Science in Computer Science (B.Sc.) 
+Expected Graduation: April 2026 
 
 Relevant Courses:
 
