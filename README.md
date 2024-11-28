@@ -1,7 +1,7 @@
 # Hi there, I'm Johan Philip! 👋
 
 <!-- Intro section -->
-I'm a Computer Science at Toronto Metropolitan University (formerly Ryerson University). Ever since discovering the world of programming, I have been captivated by that widespread applications of technology and the impact it has on daily life, in particular health care.
+I'm a Computer Science at Toronto Metropolitan University (formerly Ryerson University). Ever since discovering the world of programming, I have been captivated by the widespread applications of technology and the countless ways in which it can impact lives.
 
 ---
 ## Education
