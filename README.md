@@ -14,7 +14,7 @@ Relevant Courses:
 
 * Computer Science 1 & 2 (Python and Java)
 * Data Structures
-* Web Systems Development (Perl, Ruby, CGI, Apache)
+* Web Systems Development (MySQL, PHP, Perl, Ruby, CGI, Apache)
 * Introduction to Unix, C & C++
 
 ## Technical Skills
@@ -31,7 +31,7 @@ Relevant Courses:
 * Bash
   
 #### Frameworks
-* ReactJS
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 * NodeJS
 * ExpressJS
 * TailwindCSS
