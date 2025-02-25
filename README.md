@@ -16,6 +16,8 @@ Relevant Courses:
 * Data Structures
 * Web Systems Development (MySQL, PHP, Perl, Ruby, CGI, Apache)
 * Introduction to Unix, C & C++
+* Operating Systems
+* Software Tools for Startups (Github, VCS, CI/CD, Cloud)
 
 ## Technical Skills
 #### Programming Languages
