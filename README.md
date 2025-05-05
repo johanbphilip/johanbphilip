@@ -46,6 +46,11 @@ Relevant Courses:
 * Utilized Google Maps and Google Calendar APIs to display clinic location and varying weekly schedules
 * Used ReactJS and TailwindCSS to create a modern, dynamic, and aesthetic website
 
+#### Ebenezer Duct Cleaning - Local Business Website
+* Created a website for a local duct cleaning business to help boost patient outreach and increase marketing
+* Utilized Featurable API to showcase Google Reviews to help inform prospective customers and encourage higher reviews
+* Used NextJS and TailwindCSS to create a modern, dynamic, and aesthetic website
+
 ---
 <!--
 - 🌱 I’m currently learning **TypeScript**
