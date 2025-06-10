@@ -1,8 +1,5 @@
 # Hi there, I'm Johan  Philip! 👋
 
----
-[LinkedIn](https://www.linkedin.com/in/johanbphilip/)
-
 I'm a Computer Science at Toronto Metropolitan University (formerly Ryerson University). Ever since discovering the world of programming, I have been captivated by the widespread applications of technology and the countless ways in which it can impact lives.
 
 ---
@@ -67,5 +64,6 @@ Expected Graduation: April 2026
 * Ensured **100% Search Engine Optimization** using NextJS' **server-side rendering** capabilities
 * Utilized **Featurable API** to showcase **Google Reviews** to help inform prospective customers and encourage higher reviews
 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ---
 
