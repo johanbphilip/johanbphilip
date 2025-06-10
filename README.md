@@ -22,7 +22,6 @@ Expected Graduation: April 2026
 * Operating Systems (Linux, C)
 * Software Tools for Startups (Github, CI/CD, Cloud, Docker, FastAPI, Django)
 
-![tryhackme stats](https://raw.githubusercontent.com/johanbphilip/johanbphilip/master/assets/thm_propic.png)
 
 ## Technical Skills
 #### Programming Languages
