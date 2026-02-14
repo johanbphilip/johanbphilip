@@ -11,10 +11,9 @@ Expected Graduation: April 2026
 
 #### Relevant Courses:
 
-* Computer Science 1 & 2 (Python and Java)
 * Object-Oriented Programming (Java)
 * Data Structures and Algorithms
-* Web Systems Development (MySQL, PHP, Perl, Ruby, CGI, Apache)
+* Web Systems Development (React, MongoDB, NodeJS, Express)
 * Introduction to Unix, C & C++
 * Operating Systems (Linux, C)
 * Software Tools for Startups (Github, CI/CD, Cloud, Docker, FastAPI, Django)
